@@ -23,5 +23,5 @@ This Python-based Blackjack game brings the classic casino experience to the com
 - Student Member | BCS, The Chartered Institute for IT
 
 ## Contact Me
-Phone: +1 (239 342-8404
+Phone: +1 (239) 342-8404
 Email: gabrielrperez47@gmail.com
