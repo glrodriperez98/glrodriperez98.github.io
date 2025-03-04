@@ -21,3 +21,5 @@ This Python-based Blackjack game brings the classic casino experience to the com
 - DevOps & Software Engineering Specialization | IBM, Coursera
 - The Complete Python 3 BootCamp | Udemy
 - Student Member | BCS, The Chartered Institute for IT
+
+Add in LinkedIn and GitHub Badges
