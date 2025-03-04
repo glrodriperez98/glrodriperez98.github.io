@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 
 /* Ensure custom styles override the theme */
