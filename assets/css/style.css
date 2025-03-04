@@ -1,35 +1,46 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"; /* Ensures GitHub Pages theme is applied */
+
+/* Flexbox to properly align image and text */
+.about-me-container {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  max-width: 800px !important;
+  margin: 0 auto !important;
+}
+
+/* Text area */
+.about-text {
+  flex: 1 !important;
+  max-width: 60% !important;
+}
+
+/* Image styling */
 .about-me-container img {
-  display: block !important; /* Force styling */
-  max-width: 150px !important; /* Prevent theme from overriding size */
+  max-width: 150px !important;
   height: auto !important;
   border-radius: 10px !important;
-  float: right !important; /* Align image to the right */
-  margin-left: 20px !important; /* Add spacing */
+  margin-left: 20px !important;
 }
 
-/* Ensure the paragraph text does not wrap around the image */
-.about-me-container p {
-  max-width: 60% !important;
-  display: inline-block !important;
-  vertical-align: middle !important;
-}
-
-/* Mobile-friendly fixes */
+/* Mobile-friendly adjustments */
 @media (max-width: 768px) {
   .about-me-container {
-    display: block !important;
+    flex-direction: column !important;
     text-align: center !important;
   }
 
   .about-me-container img {
-    display: block !important;
     margin: 10px auto !important;
-    float: none !important;
   }
+
+  .about-text {
+    max-width: 100% !important;
+  }
+}
 
   .about-me-container p {
     max-width: 100% !important;
