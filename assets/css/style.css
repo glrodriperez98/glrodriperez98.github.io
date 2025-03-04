@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import url("https://cdnjs.cloudflare.com/ajax/libs/jekyll-theme-cayman/0.2.0/style.css");
+
 /* Ensure custom styles override the theme */
 .about-me-container {
   display: flex;
