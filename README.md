@@ -5,10 +5,12 @@ I've developed a keen eye for process optimization and data-driven decision-maki
 ## Projects
 # Tic Tac Toe – Command Line Game
 A simple two-player Tic Tac Toe game built in raw Python, featuring an interactive command-line interface, clear user prompts, and smooth gameplay. Players take turns selecting positions on a 3x3 grid, with automatic win detection and replay functionality. Future enhancements include a graphical user interface and AI opponent mode.
+
 [Learn More](https://github.com/glrodriperez98/tic-tac-toe-cmd-line)
 
 # Blackjack Game – Command-Line Casino Experience
 This Python-based Blackjack game brings the classic casino experience to the command line, allowing players to bet, hit, stand, and compete against the dealer while following traditional Blackjack rules. It features a structured game flow with a betting system, chip management, and buy-in limits to ensure a realistic and engaging experience. The interface is designed for clarity, with automatic screen clearing for better readability, and players can exit anytime without losing progress. Built using Python OOP principles, this project demonstrates strong game logic implementation and user-friendly CLI interactions, with future plans to incorporate a graphical UI and multiplayer mode
+
 [Learn More](https://github.com/glrodriperez98/blackjack_cmd_line)
 
 ## Education
