@@ -4,6 +4,8 @@ description: Full Stack Software Developer. Get to know more about me, my skills
 maintainer: Gabriel Rodriguez Perez
 linkedin_url: https://www.linkedin.com/in/glrodriperez
 github_url: https://github.com/glrodriperez98
+include:
+  - assets/css/style.css
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0 
 plugins:
