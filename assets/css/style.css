@@ -1,8 +1,7 @@
 ---
 ---
 
-@import url("https://cdnjs.cloudflare.com/ajax/libs/jekyll-theme-cayman/0.2.0/style.css");
-
+@import "{{ site.theme }}";
 /* Ensure custom styles override the theme */
 .about-me-container {
   display: flex;
@@ -39,15 +38,4 @@
   .about-me-container p {
     max-width: 100%;
   }
-}
-
-/* Profile picture styling */
-.profile-picture {
-  display: block;
-  margin: 20px auto; /* Centers the image */
-  border-radius: 50%; /* Makes it circular */
-  width: 120px; /* Adjust size as needed */
-  height: auto;
-  border: 3px solid #fff; /* Optional: Adds a border */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
 }
