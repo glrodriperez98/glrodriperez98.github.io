@@ -1,6 +1,8 @@
 ---
 ---
 
+@import url("https://cdnjs.cloudflare.com/ajax/libs/jekyll-theme-cayman/0.2.0/style.css");
+
 /* Ensure custom styles override the theme */
 .about-me-container {
   display: flex;
@@ -49,5 +51,3 @@
   border: 3px solid #fff; /* Optional: Adds a border */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
 }
-
-@import url("https://cdnjs.cloudflare.com/ajax/libs/jekyll-theme-cayman/0.2.0/style.css");
