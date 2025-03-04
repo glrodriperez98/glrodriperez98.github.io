@@ -1,6 +1,6 @@
 title: Gabriel Rodriguez Perez
-#logo: /assets/img/*insert image name here*
-#description: text below image
+logo: /assets/img/Headshot.jpg
+description: Full Stack Software Developer. Checkout my Portfolio to learn more about me and my background and skills in Software Development:
 show_downloads: true
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
