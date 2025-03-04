@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 /* About Me Section - Align Image to Right */
 .about-me-container {
   display: flex;
