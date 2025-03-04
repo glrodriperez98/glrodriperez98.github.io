@@ -22,4 +22,6 @@ This Python-based Blackjack game brings the classic casino experience to the com
 - The Complete Python 3 BootCamp | Udemy
 - Student Member | BCS, The Chartered Institute for IT
 
-Add in LinkedIn and GitHub Badges
+## Contact Me
+Phone: +1 (239 342-8404
+Email: gabrielrperez47@gmail.com
