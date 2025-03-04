@@ -2,7 +2,8 @@
 From the time I joined the CyberSecurity program in highschool, I knew technology was my passion. However life occurs and my career developed into managing real estate operations and financial transactions to optimizing workflows with automation. My journey however has always been about solving complex problems efficiently. My fascination with technology and software development led me to pursue an MSc in Computer Science, where I’ve been honing my skills in programming, DevOps, and system architecture.
 I've developed a keen eye for process optimization and data-driven decision-making and now, I’m channeling that expertise into building scalable, high-impact software solutions. With a passion for continuous learning and innovation, I’m eager to contribute my technical skills, problem-solving mindset, and adaptability to a dynamic engineering team.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glrodriperez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glrodriperez) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glrodriperez98)
+
 
 ## Projects
 ### Tic Tac Toe – Command Line Game
