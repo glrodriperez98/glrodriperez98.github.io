@@ -1,26 +1,24 @@
----
----
-
-@import "{{ site.theme }}";
-/* About Me Section */
+/* About Me Section - Align Image to Right */
 .about-me-container {
   display: flex;
   align-items: center;
-  gap: 20px; 
+  justify-content: space-between;
 }
 
+.about-me-container img {
+  max-width: 150px; /* Adjust size as needed */
+  height: auto;
+  border-radius: 10px;
+  margin-left: 20px; /* Space between text and image */
+}
+
+/* Ensure paragraph takes up remaining space */
 .about-me-container p {
   flex: 1;
   max-width: 60%;
 }
 
-.about-me-container img {
-  max-width: 150px; 
-  height: auto;
-  border-radius: 10px;
-}
-
-/* Responsive Design */
+/* Mobile-friendly adjustments */
 @media (max-width: 768px) {
   .about-me-container {
     flex-direction: column;
@@ -28,11 +26,12 @@
     text-align: center;
   }
 
-  .about-me-container p {
-    max-width: 100%;
+  .about-me-container img {
+    max-width: 100px; /* Adjust for smaller screens */
+    margin: 10px 0;
   }
 
-  .about-me-container img {
-    max-width: 100px;
+  .about-me-container p {
+    max-width: 100%;
   }
 }
