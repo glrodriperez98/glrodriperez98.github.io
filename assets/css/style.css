@@ -2,40 +2,36 @@
 ---
 
 @import "{{ site.theme }}";
-/* About Me Section - Align Image to Right */
-.about-me-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 .about-me-container img {
-  max-width: 150px; /* Adjust size as needed */
-  height: auto;
-  border-radius: 10px;
-  margin-left: 20px; /* Space between text and image */
+  display: block !important; /* Force styling */
+  max-width: 150px !important; /* Prevent theme from overriding size */
+  height: auto !important;
+  border-radius: 10px !important;
+  float: right !important; /* Align image to the right */
+  margin-left: 20px !important; /* Add spacing */
 }
 
-/* Ensure paragraph takes up remaining space */
+/* Ensure the paragraph text does not wrap around the image */
 .about-me-container p {
-  flex: 1;
-  max-width: 60%;
+  max-width: 60% !important;
+  display: inline-block !important;
+  vertical-align: middle !important;
 }
 
-/* Mobile-friendly adjustments */
+/* Mobile-friendly fixes */
 @media (max-width: 768px) {
   .about-me-container {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+    display: block !important;
+    text-align: center !important;
   }
 
   .about-me-container img {
-    max-width: 100px; /* Adjust for smaller screens */
-    margin: 10px 0;
+    display: block !important;
+    margin: 10px auto !important;
+    float: none !important;
   }
 
   .about-me-container p {
-    max-width: 100%;
+    max-width: 100% !important;
   }
 }
