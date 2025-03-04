@@ -2,6 +2,8 @@
 From the time I joined the CyberSecurity program in highschool, I knew technology was my passion. However life occurs and my career developed into managing real estate operations and financial transactions to optimizing workflows with automation. My journey however has always been about solving complex problems efficiently. My fascination with technology and software development led me to pursue an MSc in Computer Science, where I’ve been honing my skills in programming, DevOps, and system architecture.
 I've developed a keen eye for process optimization and data-driven decision-making and now, I’m channeling that expertise into building scalable, high-impact software solutions. With a passion for continuous learning and innovation, I’m eager to contribute my technical skills, problem-solving mindset, and adaptability to a dynamic engineering team.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glrodriperez)
+
 ## Projects
 ### Tic Tac Toe – Command Line Game
 A simple two-player Tic Tac Toe game built in raw Python, featuring an interactive command-line interface, clear user prompts, and smooth gameplay. Players take turns selecting positions on a 3x3 grid, with automatic win detection and replay functionality. Future enhancements include a graphical user interface and AI opponent mode.
