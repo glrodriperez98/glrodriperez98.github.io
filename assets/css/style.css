@@ -1,5 +1,7 @@
-@import "{{ site.theme }}";
+---
+---
 
+@import "{{ site.theme }}";
 /* Ensure custom styles override the theme */
 .about-me-container {
   display: flex;
